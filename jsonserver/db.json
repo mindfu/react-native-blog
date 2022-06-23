@@ -1,0 +1,19 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "BIG TEST",
+      "content": "IMPORTANT CONTENT"
+    },
+    {
+      "title": "Hi",
+      "content": "There",
+      "id": 2
+    },
+    {
+      "title": "What happened",
+      "content": "You",
+      "id": 3
+    }
+  ]
+}
